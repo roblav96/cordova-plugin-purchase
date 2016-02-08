@@ -12,7 +12,7 @@
 #import <Cordova/CDVPlugin.h>
 
 #ifndef __CORDOVA_4_0_0
-    #import <Cordova/NSData+Base64.h>
+    // #import <Cordova/NSData+Base64.h>
 #endif
 
 #import "SKProduct+LocalizedPrice.h"
